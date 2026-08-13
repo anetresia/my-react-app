@@ -1368,7 +1368,7 @@ Infos Style
 */
 
 .video-info {
-  background-image: url(../images/video-bg.jpg);
+  background-image: url(../Pr-img/images/video-bg.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -1618,7 +1618,7 @@ CTA Style
 */
 
 .cta {
-  background-image: url(../images/cta-bg.jpg);
+  background-image: url(../Pr-img/images/cta-bg.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
